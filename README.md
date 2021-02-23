@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Olá pessoal, beleza? 👋
 Sou especialista em Infraestrutura, +10 anos de experiência, apaixonado por resolver problemas e que está estudando bastante Programação e DevOps.
-Sou um ESTUDANTE entusiasnta procurando novos desafios e oportunidades em PYTHON FullStack Development :computer:
+Sou um eterno estudante entusiasta procurando novos desafios e oportunidades em PYTHON FullStack Development :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **CONAB**
  <br/> :purple_heart: &nbsp; Buscando colaborar em projetos Front-end usando React e NextJS
