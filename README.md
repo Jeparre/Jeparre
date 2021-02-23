@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Jeparre/Jeparre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,13 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+-->
 
 # Jefferson Emerick
 
-## Olá pessoal 👋
+## Olá pessoal, beleza? 👋
 Sou especialista em Infraestrutura, +10 anos de experiência, apaixonado por resolver problemas e que está estudando bastante Programação e DevOps.
 Sou um ESTUDANTE entusiasnta procurando novos desafios e oportunidades em PYTHON FullStack Development :computer:
 
