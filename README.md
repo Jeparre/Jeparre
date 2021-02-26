@@ -26,7 +26,7 @@ Sou um eterno estudante entusiasta procurando novos desafios e oportunidades em 
  <br/> :purple_heart: &nbsp; Buscando colaborar em projetos em Python e Flask/Django
  <br/> :blush: &nbsp; Posso te ajudar com Python e Infra! Vamos trocar ideia!
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, Python, Flask e Django :)
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias em geral, viagens, esportes, música, dança, games (CS:GO), seriados e filmes! Fotografo e Videomaker :)
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias em geral, viagens, esportes, música, dança, games (CS:GO), seriados e filmes! Fotografo e Videomaker
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JeffersonEmerick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeffersonemerick-it/)](https://www.linkedin.com/in/jeffersonemerick-it/) 
 [![Gmail Badge](https://img.shields.io/badge/-jeparre@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:jeparre@gmail.com)
 
